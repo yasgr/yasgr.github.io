@@ -1,6 +1,6 @@
 ---
 title: Hola Buenas
-date: 2023-1-09 13:00:00 -500
+date: 2023-01-09 13:00:00 -500
 categories: [hola, adios]
 tags: [web, github, code]
 ---
