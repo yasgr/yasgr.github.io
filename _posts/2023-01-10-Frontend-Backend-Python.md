@@ -1,6 +1,6 @@
 ---
 title: Combining Frontend and Backend Development with Python
-date: 2023-01-10 19:20:00-500
+date: 2023-01-10 19:20:00-0500
 categories: [front-end,back-end,full-stack]
 tags: [python,programming,web-development]
 ---
