@@ -13,7 +13,7 @@ Web development is a broad field, and there are many different technologies that
 
 On the other hand, the backend, also known as the server-side, is responsible for handling all the behind-the-scenes logic of a web application. This includes things like connecting to a database, processing user input, and handling business logic. Python is a popular choice for backend development, and many web frameworks, such as Django and Flask, are written in Python.
 
- ## Using JavaScript Libraries and Frameworks with Python
+## Using JavaScript Libraries and Frameworks with Python
 To combine frontend and backend development with Python, developers can use JavaScript libraries and frameworks, such as React or AngularJS, to build the frontend of the web application. These libraries and frameworks can be used to create the user interface and handle user interactions. Meanwhile, Python and its web frameworks can be used to handle the backend logic, such as connecting to a database, processing user input, and handling business logic.
 
 ## Full-Stack Python Frameworks for Combining Frontend and Backend
