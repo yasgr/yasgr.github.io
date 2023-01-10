@@ -5,9 +5,7 @@ categories: [front-end,back-end,full-stack]
 tags: [python,programming,web,development]
 ---
 
- # Combining Frontend and Backend Development with Python
-
- ## Introduction to Combining Frontend and Backend Development with Python
+## Introduction to Combining Frontend and Backend Development with Python
 Python is a versatile and powerful programming language that is widely used in web development. It provides a wide range of libraries and frameworks that can be used to build the backend of web applications. But what if you want to work on both the frontend and backend of a web application? Is it possible to use Python for both frontend and backend development? The answer is yes!
 
 ## The Different parts of a Web Application: Frontend and Backend
