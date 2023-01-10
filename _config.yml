@@ -21,7 +21,7 @@ timezone: Europe/Madrid
 
 title: Yasgr                          # the main title
 
-tagline: Soy Yasmina, Desarrolladora Web Junior con muchas ganas de aprender y seguir formándome.   # it will display as the sub-title
+tagline:  Hi, I'm Yasmina and I am currently seeking a Junior Web Developer position.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
