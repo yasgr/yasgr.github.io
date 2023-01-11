@@ -143,6 +143,6 @@ This includes minifying the HTML, CSS and JavaScript, compressing images, and le
 Once the landing page is complete, test it on different browsers and devices to ensure that it looks and works as expected.
 Then you can deploy the landing page to a web server or hosting service.
 
-If you still have any doubts about this matter, you can check out my repository: https://github.com/yasgr/Landing-Page
+If you still have any doubts about this matter, you can check out [my Landing-Page repository](https://github.com/yasgr/Landing-Page)
 
 
