@@ -143,4 +143,6 @@ This includes minifying the HTML, CSS and JavaScript, compressing images, and le
 Once the landing page is complete, test it on different browsers and devices to ensure that it looks and works as expected.
 Then you can deploy the landing page to a web server or hosting service.
 
-Creating a landing page with HTML and CSS from a technical web developer point of view is a great way to gain full control over the design and functionality of the page. By following these steps, you can create a landing page that is both visually appealing and functional, which will help you achieve your marketing goals.
+If you still have any doubts about this matter, you can check out my repository: https://github.com/yasgr/Landing-Page
+
+
