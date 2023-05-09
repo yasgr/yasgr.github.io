@@ -21,7 +21,7 @@ timezone: Europe/Madrid
 
 title: Yasgr                          # the main title
 
-tagline:  Hi, I'm Yasmina and I am a Front-End developer.   # it will display as the sub-title
+tagline:  Hi, my name is Yasmina and I am a Front-End developer.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Yasgr
-  email: yasminagrh@proton.me             # change to your email address
+  email: yasminarhanny@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
