@@ -1,5 +1,5 @@
 ---
-title: Responsive and Mobile-First Design':' What You Need to Know
+title: Responsive and Mobile-First Design: What You Need to Know
 date: 2023-05-9 14:10:00 +0800
 categories: [front-end,web-design]
 tags: [web,development,design]
